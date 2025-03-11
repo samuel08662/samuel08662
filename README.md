@@ -1,4 +1,6 @@
-##ola negros @ 
+##ola negros 
+
+
 meu nome e samuel sou estudante de TI, trabalho de casa ajudando pessoas com duvidas de internet, criação de sites, design, logotifes e auxilio em projetos online
 
 <!--
